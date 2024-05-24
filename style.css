@@ -18,7 +18,7 @@ body {
 }
 
 header, footer {
-    background-color: #4fe111;
+    background-color: hsl(0, 0%, 0%);
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -62,4 +62,8 @@ section ul {
 
 footer p {
     font-size: 14px;
+}
+.imagem{
+    width: 20%;
+    
 }
