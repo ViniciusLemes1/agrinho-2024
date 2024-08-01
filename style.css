@@ -18,7 +18,7 @@ body {
 }
 
 header, footer {
-    background-color: hsl(0, 0%, 0%);
+    background-color: hsla(138, 96%, 35%, 0.947);
     color: #fff;
     padding: 20px 0;
     text-align: center;
