@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
 }
 
 .container {
@@ -18,7 +18,7 @@ body {
 }
 
 header, footer {
-    background-color: hsla(138, 96%, 35%, 0.947);
+    background-color: hsla(138, 100%, 24%, 0.947);
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -64,6 +64,10 @@ footer p {
     font-size: 14px;
 }
 .imagem{
-    width: 20%;
+    width: 15%;
     
 }
+.zim{
+    width: 15%;
+}
+
